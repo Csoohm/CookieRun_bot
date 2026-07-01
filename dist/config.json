@@ -1,0 +1,83 @@
+{
+    "loops": "0",
+    "dash_path": "D:/pyt/images/dash_button.png",
+    "dash_wait": 11.0,
+    "dash_click_mode": "single",
+    "dash_next_action": "continue",
+    "dash_next_path": "",
+    "dash_next_timeout": 5.0,
+    "pause_path": "D:/pyt/images/IMAGE_PAUSE.png",
+    "pause_wait": 0.0,
+    "pause_click_mode": "single",
+    "pause_next_action": "continue",
+    "pause_next_path": "",
+    "pause_next_timeout": 5.0,
+    "ok_path": "D:/pyt/images/OK.png",
+    "ok_wait": 0.0,
+    "ok_click_mode": "single",
+    "ok_next_action": "continue",
+    "ok_next_path": "",
+    "ok_next_timeout": 5.0,
+    "predefined_slots": {
+        "Play": {
+            "path": "D:/pyt/images/play_button.png",
+            "delay": 0.0,
+            "click_mode": "single",
+            "next_action": "continue",
+            "next_path": "",
+            "next_timeout": 5.0
+        },
+        "Confirm สีเขียว": {
+            "path": "D:/pyt/images/confirm_button.png",
+            "delay": 0.0,
+            "click_mode": "single",
+            "next_action": "continue",
+            "next_path": "",
+            "next_timeout": 5.0
+        },
+        "Confirm สีฟ้า": {
+            "path": "D:/pyt/images/confirm.png",
+            "delay": 0.0,
+            "click_mode": "single",
+            "next_action": "continue",
+            "next_path": "",
+            "next_timeout": 5.0
+        },
+        "Quit": {
+            "path": "D:/pyt/images/QUIT.png",
+            "delay": 0.0,
+            "click_mode": "single",
+            "next_action": "continue",
+            "next_path": "",
+            "next_timeout": 5.0
+        },
+        "Open All": {
+            "path": "D:/pyt/images/OpenAll.png",
+            "delay": 0.0,
+            "click_mode": "single",
+            "next_action": "continue",
+            "next_path": "",
+            "next_timeout": 5.0
+        },
+        "Run 2": {
+            "path": "D:/pyt/images/run 2.png",
+            "delay": 0.0,
+            "click_mode": "single",
+            "next_action": "scan_next",
+            "next_path": "D:/pyt/images/IMAGE_PAUSE.png",
+            "next_timeout": 5.0
+        },
+        "Close Popup": {
+            "path": "D:/pyt/images/close_popup.png",
+            "delay": 0.0,
+            "click_mode": "single",
+            "next_action": "continue",
+            "next_path": "",
+            "next_timeout": 5.0
+        }
+    },
+    "scan_interval": 0.05,
+    "spam_interval": "0.2",
+    "random_spam_delay": false,
+    "scan_images": []
+}
